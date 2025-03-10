@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8fe57abf21d352c47b811e14750b4aa5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248987
+  packageName: Sports Girl
+  packageVersion: 1.0
+  assetPath: Assets/Sports Girl/Scenes/SampleScene/LightingData.asset
+  uploadId: 568556
